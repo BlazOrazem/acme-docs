@@ -5,7 +5,7 @@
     - [Upgrade Guide](/upgrades.md)
     - [Contribution Guide](/contributions.md)
 - ## Getting Started
-    - [Installation](/docs/{{version}}/installation)
+    - [Installation](/docs/installation.md)
     - [Configuration](/docs/{{version}}/configuration)
     - [Directory Structure](/docs/{{version}}/structure)
     - [Homestead](/docs/{{version}}/homestead)
