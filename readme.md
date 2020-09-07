@@ -2,9 +2,8 @@
 
 - ## Prologue
     - [Release Notes](/releases.md)
-    - [Upgrade Guide](/docs/{{version}}/upgrade)
-    - [Contribution Guide](/docs/{{version}}/contributions)
-    - [API Documentation](/api/7.x)
+    - [Upgrade Guide](/upgrades.md)
+    - [Contribution Guide](/contributions.md)
 - ## Getting Started
     - [Installation](/docs/{{version}}/installation)
     - [Configuration](/docs/{{version}}/configuration)
