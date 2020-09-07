@@ -1,7 +1,7 @@
 # Acme Docs
 
 - ## Prologue
-    - [Release Notes](/releases)
+    - [Release Notes](/releases.md)
     - [Upgrade Guide](/docs/{{version}}/upgrade)
     - [Contribution Guide](/docs/{{version}}/contributions)
     - [API Documentation](/api/7.x)
