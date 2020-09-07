@@ -7,6 +7,8 @@
 <a name="versioning-scheme"></a>
 ## Versioning Scheme
 
+![1900x1080](https://user-images.githubusercontent.com/5699173/92413356-f0a0c580-f14f-11ea-8c0a-6d0a773b317d.jpg)
+
 Laravel and its other first-party packages follow [Semantic Versioning](https://semver.org). Major framework releases are released every six months (~February and ~August), while minor and patch releases may be released as often as every week. Minor and patch releases should **never** contain breaking changes.
 
 When referencing the Laravel framework or its components from your application or package, you should always use a version constraint such as `^7.0`, since major releases of Laravel do include breaking changes. However, we strive to always ensure you may update to a new major release in one day or less.
