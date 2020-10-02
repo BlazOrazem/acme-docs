@@ -16,6 +16,8 @@ When referencing the Laravel framework or its components from your application o
 <a name="support-policy"></a>
 ## Support Policy
 
+![110157](https://user-images.githubusercontent.com/5699173/94904020-f661a080-049a-11eb-8b96-e9fddaab9cdd.jpg)
+
 For LTS releases, such as Laravel 6, bug fixes are provided for 2 years and security fixes are provided for 3 years. These releases provide the longest window of support and maintenance. For general releases, bug fixes are provided for 6 months and security fixes are provided for 1 year. For all additional libraries, including Lumen, only the latest release receives bug fixes. In addition, please review the database versions [supported by Laravel](/docs/{{version}}/database#introduction).
 
 | Version | Release | Bug Fixes Until | Security Fixes Until |
